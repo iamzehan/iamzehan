@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_am_zehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_zehan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ziaul-karim-b45456140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziaul-karim-b45456140/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziaul-karim-b45456140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziaul-karim-b45456140/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ziaulkarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ziaulkarim" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ziaul_karim497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ziaul_karim497" height="30" width="40" /></a>
 </p>
