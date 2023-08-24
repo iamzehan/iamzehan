@@ -15,9 +15,10 @@
 
 - 📫 How to reach me **ziaul.karim497@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EwqqOJLt2RZ9ViaWjLOUWb0gEAhQ67um/view?usp=sharing](https://drive.google.com/file/d/1EwqqOJLt2RZ9ViaWjLOUWb0gEAhQ67um/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EwqqOJLt2RZ9ViaWjLOUWb0gEAhQ67um/view?usp=sharing)
 
-- ⚡ Fun fact **I went swimming one day.**
+<h1>⚡Fun fact</h1>
+<center><img src="https://ventureteambuilding.co.uk/wp-content/uploads/2016/06/AllDay03.gif"></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
