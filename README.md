@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science & ML Projects**
 
-- 👨‍💻 All of my projects are available at [https://codingwithzk.netlify.app/](https://codingwithzk.netlify.app/)
+- 👨‍💻 All of my projects are available at [Website](https://ziaulkarim.netlify.app/)
 
 - 📫 How to reach me **ziaul.karim497@gmail.com**
 
