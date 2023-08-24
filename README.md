@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! it's Zehan.</h1>
+<h1 align="center"><img src="https://media.tenor.com/7ZFzI_xgRAcAAAAC/deadpool-hello-there.gif"></h1>
 <h3 align="center">Software Engineer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> </p>
@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EwqqOJLt2RZ9ViaWjLOUWb0gEAhQ67um/view?usp=sharing)
 
 <h1>⚡Fun fact</h1>
-<center><img src="https://ventureteambuilding.co.uk/wp-content/uploads/2016/06/AllDay03.gif"></center>
+<h1 align="center"><img src="https://ventureteambuilding.co.uk/wp-content/uploads/2016/06/AllDay03.gif"></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
