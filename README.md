@@ -18,9 +18,9 @@
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EwqqOJLt2RZ9ViaWjLOUWb0gEAhQ67um/view?usp=sharing)
 
 <h1>⚡Fun fact</h1>
-<h6 align="center"> I never give up and ... </h6>
+<h3 align="center"> I don't ever give up and ... </h3>
 <h1 align="center"><img src="https://ventureteambuilding.co.uk/wp-content/uploads/2016/06/AllDay03.gif"></h1>
-
+<h1 align="center"><img src="https://i.pinimg.com/originals/51/4e/7e/514e7ed5a1e24382c12e032010bb5543.gif"><br> believe it</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_am_zehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_zehan" height="30" width="40" /></a>
