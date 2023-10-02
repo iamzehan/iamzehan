@@ -53,3 +53,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamzehan&show_icons=true&locale=en&layout=compact" alt="iamzehan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamzehan&" alt="iamzehan" /></p>
+
+<p> If you made it till here, let me tell you something. I once told someone that I want to win, no matter what the cost. I was wrong. Wanting to win is one thing, but you have to understand that nothing is promised in this life. What you have is now and only now is promised. If your now doesn't excite you, no amount of winning will ever satisfy you. So, please stop wondering about the future too much. You'll be more than just fine, keep working, keep smiling and keep getting up everytime you get knocked down and please please please be kind. </p>
