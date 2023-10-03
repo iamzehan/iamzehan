@@ -55,3 +55,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamzehan&" alt="iamzehan" /></p>
 
 <p> If you made it till here, let me tell you something ___ <br> <i>"I once told someone that I wanted to win, no matter what the cost, and Boy, was I wrong to underestimate the cost! Wanting to win is probably a good thing, but you also have to understand that nothing is promised in this life. What you have is now, and only now is promised. If your 'now' doesn't excite you, no amount of winning will ever satisfy you. So, please stop wondering about the future too much. You'll be more than just fine. Keep working, keep growing, keep smiling, and keep getting up every time you get knocked down. Fall, but fall forward, and please 🙏 please 🙏 please 🙏 be kind because very few of us get the chance to change the world, but true kindness can change lives. I think that is more important."</i> </p>
+
+
+<span style="color:green;font-weight:700;font-size:20px">
+   - Zehan
+</span>
