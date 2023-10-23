@@ -61,5 +61,3 @@
 <span style="color:green;font-weight:700;font-size:20px">
    - Zehan
 </span>
-
-#### For me, this is my home.
