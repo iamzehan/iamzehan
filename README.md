@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ziaul.karim497@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EwqqOJLt2RZ9ViaWjLOUWb0gEAhQ67um/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
