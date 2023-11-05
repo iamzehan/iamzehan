@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.tenor.com/7ZFzI_xgRAcAAAAC/deadpool-hello-there.gif"></h1>
-<h3 align="center">One day? Or day One? All day Every day baby... Every single day...</h3>
+<h3 align="center">MD ZIAUL KARIM (ZEHAN)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> </p>
 
@@ -25,7 +25,8 @@
 <a href="https://leetcode.com/ziaul497/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="leetcode" height="40" width="40"></a>
 <a href="https://www.hackerrank.com/ziaul_karim497?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ziaul_karim497" height="30" width="40" /></a>
 </p>
-<p><img src="https://leetcode.card.workers.dev/ziaul497?theme=auto&font=baloo&extension=null"></p>
+<h3 align = "center">My Leetcode Stats</h3>
+<p align="center"> <img height=250 width=450 src="https://leetcode.card.workers.dev/ziaul497?theme=auto&font=baloo&extension=null"></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -53,9 +54,15 @@
   <a href="https>//www.streamlit.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="40" height="20"/> </a>
   <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4" alt="tensorflow" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamzehan&show_icons=true&locale=en&layout=compact" alt="iamzehan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamzehan&" alt="iamzehan" /></p>
+
+<p align="center">
+<img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark"></img>
+<img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=iamzehan&show_icons=true&theme=dark">
+<img height="auto" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamzehan&theme=dark" alt="iamzehan" />
+</p>
+
+
 
 <p> If you made it till here, let me tell you something ___ <br> <i>"I once told someone that I wanted to win, no matter what the cost, and Boy, was I wrong to underestimate the cost! Wanting to win is probably a good thing, but you also have to understand that nothing is promised in this life. What you have is now, and only now is promised. If your 'now' doesn't excite you, no amount of winning will ever satisfy you. So, please stop wondering about the future too much. You'll be more than just fine. Keep working, keep growing, keep smiling, and keep getting up every time you get knocked down. Fall, but fall forward, and please 🙏 please 🙏 please 🙏 be kind because very few of us get the chance to change the world, but true kindness can change lives. I think that is more important."</i> </p>
 
