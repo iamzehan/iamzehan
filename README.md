@@ -60,10 +60,11 @@
 <a><img height="200" width="600" src="https://github-readme-stats.vercel.app/api?username=iamzehan&count_private=true&show_icons=true&theme=dark"/></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=dark&count_private=true" alt="GitHub Streak" /></a>
 </p>
-
-<p> If you made it till here, let me tell you something ___ <br> <i>"I once told someone that I wanted to win, no matter what the cost, and Boy, was I wrong to underestimate the cost! Wanting to win is probably a good thing, but you also have to understand that nothing is promised in this life. What you have is now, and only now is promised. If your 'now' doesn't excite you, no amount of winning will ever satisfy you. So, please stop wondering about the future too much. You'll be more than just fine. Keep working, keep growing, keep smiling, and keep getting up every time you get knocked down. Fall, but fall forward, and please 🙏 please 🙏 please 🙏 be kind because very few of us get the chance to change the world, but true kindness can change lives. I think that is more important."</i> </p>
-
+<!-- <p> If you made it till here, let me tell you something ___ <br> <i>"I once told someone that I wanted to win, no matter what the cost, and Boy, was I wrong to underestimate the cost! Wanting to win is probably a good thing, but you also have to understand that nothing is promised in this life. What you have is now, and only now is promised. If your 'now' doesn't excite you, no amount of winning will ever satisfy you. So, please stop wondering about the future too much. You'll be more than just fine. Keep working, keep growing, keep smiling, and keep getting up every time you get knocked down. Fall, but fall forward, and please 🙏 please 🙏 please 🙏 be kind because very few of us get the chance to change the world, but true kindness can change lives. I think that is more important."</i> </p>
 
 <span style="color:green;font-weight:700;font-size:20px">
    - Zehan
-</span>
+</span> -->
+
+<h3 align="center">До свидания</h3>
+<p align="center"><img src="https://github.com/iamzehan/iamzehan/assets/43857150/987604cb-aede-4490-98b0-267410bf6145.gif"></p>
