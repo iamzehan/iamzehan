@@ -57,8 +57,9 @@
 
 <p align="center">
 <a><img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark"/></a>
+  <br>
 <a><img height="200" width="600" src="https://github-readme-stats.vercel.app/api?username=iamzehan&show_icons=true&theme=dark"/></a>
-<a><img height="200" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=iamzehan&theme=dark" alt="iamzehan" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
 
 </p>
 
