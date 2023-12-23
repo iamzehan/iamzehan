@@ -1,5 +1,8 @@
 <h3 align="center">MD ZIAUL KARIM (ZEHAN)</h3>
 <h4 align = "center"> "La tahzan, innallaha ma'ana" - Do not grieve, indeed Allah is with us. - Surah At-Tawbah 40 </h4>
+
+![image](https://github.com/iamzehan/iamzehan/assets/43857150/14dd9432-ca6e-4cc2-870e-db371cbb9e06)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamzehan" alt="iamzehan" /></a> </p>
