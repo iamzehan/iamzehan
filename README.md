@@ -60,17 +60,37 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   </p>
   
-  ## Python Stack <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> (Artificial Intelligence)
+  <h2 align="center">Python Stack <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> (Artificial Intelligence)</h2>
   
-  ### Machine Learning & Deep Learning <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  ### Image Processing <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="vertical-align:middle"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="vertical-align:middle"/> </a>
-  ### Data Processing <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/reference/index.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:376/1*v62Z_-KtrO3m8wr_HmW4nQ.png" alt="pyspark" width="auto" height="40"/> </a> 
-  ### Data Visualization <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="seaborn" width="40" height="40"/> </a>
-  ### Prototyping (ML/DL/DS) <a href="https>//www.streamlit.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="40" height="20"/> </a> <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4" alt="tensorflow" width="40" height="40"/> </a>
-  
-  ### Others
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<table align="center" style="width:100%">
+  <tr>
+    <th><h3 align="center">Machine Learning & Deep Learning</h3></th>
+    <th><h3 align="center">Image Processing</h3></th>
+    <th><h3 align="center">Data Processing</h3></th>
+    <th><h3 align="center">Data Visualization</h3></th>
+    <th><h3 align="center">Prototyping (ML/DL/DS)</h3></th>
+    <th><h3 align="center">Others</h3></th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
+  <td align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer" style="vertical-align:middle"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="vertical-align:middle"/></a>
+  </td>
+  <td align="center">
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>   
+    <a href="https://spark.apache.org/docs/latest/api/python/reference/index.html" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:376/1*v62Z_-KtrO3m8wr_HmW4nQ.png" alt="pyspark" width="auto" height="40"/></a>
+    <td align="center">
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="seaborn" width="40" height="40"/></a>
+    </td>
+  <td align="center"><a href="https://www.streamlit.io" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="40" height="20"/></a>
+    <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4" alt="tensorflow" width="40" height="40"/></a>
+  </td>
+  <td align="center">
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+</td>
+  </tr>
+</table>
+
   
 
 <!-- <p> If you made it till here, let me tell you something ___ <br> <i>"I once told someone that I wanted to win, no matter what the cost, and Boy, was I wrong to underestimate the cost! Wanting to win is probably a good thing, but you also have to understand that nothing is promised in this life. What you have is now, and only now is promised. If your 'now' doesn't excite you, no amount of winning will ever satisfy you. So, please stop wondering about the future too much. You'll be more than just fine. Keep working, keep growing, keep smiling, and keep getting up every time you get knocked down. Fall, but fall forward, and please 🙏 please 🙏 please 🙏 be kind because very few of us get the chance to change the world, but true kindness can change lives. I think that is more important."</i> </p>
