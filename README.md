@@ -3,6 +3,7 @@
 
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> 
+    <br>
     <img src="https://github-profile-trophy.vercel.app/?username=iamzehan&theme=onedark" alt="iamzehan" />
 </div>
 
