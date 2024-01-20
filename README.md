@@ -75,31 +75,31 @@
         <h3 align="center">Web Development</h3>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <a href="https://www.w3schools.com/html5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
         </td>
-        <td>
+        <td align="center">
             <a href = "https://www.react.dev/" target = "_blank" rel="noreferrer" ><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40"/> </a> 
         </td>
-        <td>
+        <td align="center">
             <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
         </td>
-        <td>
+        <td align="center" style="background:white">
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
         </td>
-        <td>
+        <td align="center">
             <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://fastapi.tiangolo.com/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" alt="html5" width="40" height="40"/>
             </a>
