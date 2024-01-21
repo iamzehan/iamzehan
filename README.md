@@ -75,6 +75,17 @@
         <h3 align="center">Web Development</h3>
     </tr>
     <tr>
+        <th> HTML </th>
+        <th> CSS </th>
+        <th> Bootstrap </th>
+        <th> Javascript </th>
+        <th> ReactJS </th>
+        <th> GraphQL </th>
+        <th> Django </th>
+        <th> Postman </th>
+        <th> FastAPI </th>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://www.w3schools.com/html5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         </td>
@@ -113,6 +124,14 @@
         <h3 align="center">Databases</h3>
     </tr>
     <tr>
+        <th> MS SQL Server </th>
+        <th> MySQL </th>
+        <th> PostgreSQL </th>
+        <th> SQLite </th>
+        <th> Oracle </th>
+        <th> MongoDB </th>
+    </tr>
+    <tr align="center" >
         <td>
             <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
         </td>
@@ -136,9 +155,17 @@
   
 <table align="center" style="width:100%">
     <tr>
-        <h3 align="center"> Development Environments</h3>
+        <h3 align="center"> Development & Deployment Environments</h3>
     </tr>
-    <tr>
+    <tr align="center">
+        <th> Git </th>
+        <th> bash </th>
+        <th> Heroku </th>
+        <th> Docker </th>
+        <th> Linux </th>
+        <th> Windows </th>
+    </tr>
+    <tr align="center" >
         <td>
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
         </td>
@@ -153,6 +180,9 @@
         </td>
         <td>
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+        </td>
+        <td>
+            <a href="https://www.microsoft.com/" target = "_blank" rel="noreferrer"> <img src="https://gcom.fi/images_hovedside/2021-08-12-ts3_thumbs-9cf.png?1642544790685" alt="windows" width="40" height="40"> </a>
         </td>
     </tr>
 </table>
