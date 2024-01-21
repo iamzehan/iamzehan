@@ -39,17 +39,15 @@
             <h3 align = "center">Leetcode</h3>
         </td>
         <td>
-            <h3 align = "center">Github</h3>
+            <h3 align = "center">Languages</h3>
         </td>
     </tr>
-    <tr>
-        <td>
-            <p align="center"> <img src="https://leetcode.card.workers.dev/ziaul497?theme=auto&font=baloo&extension=null"></p>
+    <tr sytle="padding: 0px; width:100%">
+        <td align="center" style="padding: 0px; width:100%">
+            <img src="https://leetcode.card.workers.dev/ziaul497?theme=auto&font=baloo&extension=null">
         </td>
-        <td style="padding: 0px">
-            <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark" sytle="padding: 0px"/>
-            </p>
+        <td style="padding: 0px; width: 100%" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark" sytle="padding: 0px; height:100% width:100%"/>
         </td>
     </tr>
     <tr>
@@ -61,10 +59,10 @@
         </td>
     </tr>
     <tr align="center" style="padding: 0px; border:0px;">
-        <td style="padding: 0px;">
+        <td style="padding: 0px;  width: 100%"">
             <a><img src="https://github-readme-stats.vercel.app/api?username=iamzehan&count_private=true&show_icons=true&theme=dark"/></a>
         </td>
-        <td style="padding: 0px;">
+        <td style="padding: 0px;  width: 100%"">
             <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=dark&count_private=true" alt="GitHub Streak" style="max-width: fill-content; display:block"/></a>
         </td>
     </tr>
