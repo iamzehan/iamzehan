@@ -168,10 +168,10 @@
     </tr>
     <tr align="center" >
         <td>
-            <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
         </td>
         <td>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="git" width="40" height="40"/> </a> 
+            <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="git" width="40" height="40"/> </a> 
         </td>
         <td>
             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/iamzehan/FastAPI-Beanie-MongoDB/assets/43857150/1965d7c4-ae5d-46b9-8c5e-fae7466ec91e" alt="bash" width="40" height="43"/> </a> 
