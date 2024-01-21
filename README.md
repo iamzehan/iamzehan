@@ -46,9 +46,9 @@
         <td>
             <p align="center"> <img src="https://leetcode.card.workers.dev/ziaul497?theme=auto&font=baloo&extension=null"></p>
         </td>
-        <td>
+        <td style="padding: 0px">
             <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark" sytle="padding: 0px"/>
             </p>
         </td>
     </tr>
@@ -60,12 +60,12 @@
             <h3 align="center"> Streaks </h3>
         </td>
     </tr>
-    <tr>
-        <td>
+    <tr align="center" style="padding: 0px; border:0px;">
+        <td style="padding: 0px;">
             <a><img src="https://github-readme-stats.vercel.app/api?username=iamzehan&count_private=true&show_icons=true&theme=dark"/></a>
         </td>
-        <td>
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=dark&count_private=true" alt="GitHub Streak" /></a>
+        <td style="padding: 0px;">
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=dark&count_private=true" alt="GitHub Streak" style="max-width: fill-content; display:block"/></a>
         </td>
     </tr>
 </table>
