@@ -12,58 +12,75 @@
         <h3 align="center">Connect with me</h3>
     </tr>
     <tr>
-    <td>
-        <a href="https://twitter.com/i_am_zehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_zehan" height="30" width="40" /></a>
-    </td>
-    <td>
-        <a href="https://www.linkedin.com/in/ziaul-karim-b45456140/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziaul-karim-b45456140/" height="30" width="40" /></a>
-    </td>
-    <td>
-        <a href="https://kaggle.com/ziaulkarim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ziaulkarim" height="30" width="40"></a>
-    </td>
-    <td>
-        <a href="https://leetcode.com/ziaul497/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="leetcode" height="40" width="40"></a>
-    </td>
-    <td>
-        <a href="https://www.hackerrank.com/ziaul_karim497?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ziaul_karim497" height="30" width="40" /></a>
-    </td>
-    <td>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ziaul.karim497@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" /></a>
-    </td>
+        <td>
+            <a href="https://twitter.com/i_am_zehan" target="_blank">
+                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_zehan" height="30" width="40" />
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/ziaul-karim-b45456140/" target="_blank">
+                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziaul-karim-b45456140/" height="30" width="40" />
+            </a>
+        </td>
+        <td>
+            <a href="https://kaggle.com/ziaulkarim" target="_blank">
+                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ziaulkarim" height="30" width="40">            
+            </a>
+        </td>
+        <td>
+            <a href="https://leetcode.com/ziaul497/" target="_blank">
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="leetcode" height="40" width="40">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.hackerrank.com/ziaul_karim497?hr_r=1" target="_blank">
+                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ziaul_karim497" height="30" width="40" />
+            </a>
+        </td>
+        <td>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ziaul.karim497@gmail.com" target="_blank">
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
+            </a>
+        </td>
     </tr>
+    
 </table>
 
-<table align="center" style="width:100%">
-    <tr>
-        <td>
-            <h3 align = "center">Leetcode</h3>
+<table align="center" style="width:100%; display:flex;">
+    <tr align="center">
+        <th>
+            Leetcode
+        </th>
+        <th>
+            Languages
+        </th>
+    </tr>
+    <tr sytle="padding: 0px; width:100%; display:flex;">
+        <td align="center" style="padding: 0px; width:100%; display: flex;">
+            <!--Leetcode-->
+            <img src="https://leetcode.card.workers.dev/ziaul497?theme=auto&font=baloo&extension=null" sytle="padding: 0px; height:100%; width:100%; display:flex;"/>
         </td>
-        <td>
-            <h3 align = "center">Languages</h3>
+        <td style="padding: 0px; width: 100%; display: flex;" align="center">
+            <!--Languages-->
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark" sytle="padding: 0px; height:100%; width:100%; display:flex;"/>
         </td>
     </tr>
-    <tr sytle="padding: 0px; width:100%">
-        <td align="center" style="padding: 0px; width:100%">
-            <img src="https://leetcode.card.workers.dev/ziaul497?theme=auto&font=baloo&extension=null">
-        </td>
-        <td style="padding: 0px; width: 100%" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzehan&langs_count=9&layout=compact&theme=dark" sytle="padding: 0px; height:100% width:100%"/>
-        </td>
+    <tr align="center">
+        <th>
+            Stats
+        </th> 
+        <th> 
+            Streaks
+        </th>
     </tr>
-    <tr>
-        <td>
-            <h3 align="center"> Stats </h3>
-        </td> 
-        <td> 
-            <h3 align="center"> Streaks </h3>
+    <tr align="center" style="padding: 0px; border:0px; display: flex;">
+        <td style="padding: 0px;  width: 100%; display: flex;">
+            <!--Stats  -->
+            <img src="https://github-readme-stats.vercel.app/api?username=iamzehan&count_private=true&show_icons=true&theme=dark" style="width: 100%; height:100%; display:flex;" />
         </td>
-    </tr>
-    <tr align="center" style="padding: 0px; border:0px;">
         <td style="padding: 0px;  width: 100%"">
-            <a><img src="https://github-readme-stats.vercel.app/api?username=iamzehan&count_private=true&show_icons=true&theme=dark"/></a>
-        </td>
-        <td style="padding: 0px;  width: 100%"">
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=dark&count_private=true" alt="GitHub Streak" style="max-width: fill-content; display:block"/></a>
+            <!--Streaks-->
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=dark&count_private=true" alt="GitHub Streak" style="width: 100%; height:100%; display:flex;"/>
         </td>
     </tr>
 </table>
