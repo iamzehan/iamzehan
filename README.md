@@ -1,6 +1,4 @@
-<h1 align="center">In the name of Allah, the lord of the worlds</h1>
-
-<h3 align="center">MD. ZIAUL KARIM</h3>
+<h3 align="center">Hey there! It's Zia! 👋</h3>
 
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> 
