@@ -1,6 +1,6 @@
 <h3 align="center">Hey there! It's Zia! 👋</h3>
 <h6 align="justify">
-"There is no 'x' programmer, or 'y' programmer. There are problems and there are solutions. A programmer stands between the two and creates a bridge that holds true for all space and time. Thus, all problems, whether simple or complex  must have the simplest of solutions. Because if we make finding solutions more problematic then we are not the right guy for the job." -Zia </h6>
+"There is no 'x' programmer, or 'y' programmer. There are problems and there are solutions. A programmer stands between the two and creates a bridge that holds true for all space and time. Thus, all problems, whether simple or complex  must have the simplest of solutions. Because if we make finding solutions more problematic then we are definitely not the right guy for the job." -Zia </h6>
 
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> 
