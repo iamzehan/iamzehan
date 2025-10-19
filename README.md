@@ -1,6 +1,7 @@
 <h3 align="center">Hey there! It's Zia! 👋</h3>
 <h6 align="justify">
-I code and I build, not perfect things but things with errors in them, then I test and find errors, I fix them. I fix and then I build and then I break and then fix. Most people are afraid of breaking things that they build, because they are afraid of not being able to put them back together. If I made something, how can I not break it a thousand times to see if I can improve it? I love the process. It's a love hate relationship. I'd hate it if I didn't have anything to fix.</h6>
+I code and I build, not perfect things but things with errors in them, then I test and find errors, I fix them. I fix and then I build and then I break and then fix. Most people are afraid of breaking things that they build, because they are afraid of not being able to put them back together. If I have made something, how can I not break it a thousand times to see if I can improve it? I love the process. It's a love-hate relationship. I'd rather hate it if I didn't have anything to fix.
+</h6>
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> 
     <br>
