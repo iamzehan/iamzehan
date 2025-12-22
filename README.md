@@ -81,7 +81,7 @@ I code and I build, not perfect things but things with errors in them, then I te
         </td>
         <td style="padding: 0px;  width: 100%"">
             <!--Streaks-->
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=iamzehan&theme=dark&count_private=true" alt="GitHub Streak" style="width: 100%; height:100%; display:flex;"/>
+            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamzehan&mode=weekly" alt="GitHub Streak" /></a>
         </td>
     </tr>
 </table>
