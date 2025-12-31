@@ -1,11 +1,11 @@
+![blue-super-saiyan-vegeta-5rel2gq4o3ab17fy](https://github.com/user-attachments/assets/b47cc678-a0cd-46ef-b132-b054d72b66e9)
 <h3 align="center">Hey there! It's Zia! 👋</h3>
 <h6 align="center">
    <i> I'm kinda lazy and dumb. But arrogant enough to keep coding anyway.</i>
 </h6>
+
 <div align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=iamzehan&label=Profile%20views&color=FF5233&style=flat" alt="iamzehan" /> 
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=iamzehan&theme=onedark" alt="trophies" />
+    
 </div>
 
 <table align="center">
