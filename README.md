@@ -1,11 +1,5 @@
-![blue-super-saiyan-vegeta-5rel2gq4o3ab17fy](https://github.com/user-attachments/assets/b47cc678-a0cd-46ef-b132-b054d72b66e9)
-<h3 align="center">Hey there! It's Zia! 👋</h3>
-<h6 align="center">
-   <i> Surpassing my limits every day. </i>
-</h6>
 
-# 💫 About Me:
-- I respect failure, because it not only teaches you to respect the basics but also teaches you to embrace them. It humbles you enough to pay attention to the little things you wouldn't otherwise and it's great, you might feel down at first because you might have an ego, and it won't let you enjoy learning again, but here's the greatest takeaway - If your failure didn't change how you think, then you just... failed, nothing more and nothing less. We have to be cautious about what we choose to neglect and what we pay attention to. - [iamzehan](https://www.github.com/iamzehan)
+### Ever tried, ever failed, no matter... try again... fail again... fail better.
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziaul-karim497) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/iamzehan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziaul.karim497@gmail.com) 
