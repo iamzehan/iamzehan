@@ -1,5 +1,5 @@
 
-### Ever tried, ever failed, no matter... try again... fail again... fail better.
+## Welcome & dig through my code. It's fun, trust me. 
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziaul-karim497) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/iamzehan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziaul.karim497@gmail.com) 
